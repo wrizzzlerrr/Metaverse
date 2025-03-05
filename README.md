@@ -16,10 +16,9 @@ cd metaverse-experience
 npm install
 npm run dev
 ```
-🔗 [http://localhost:3000](http://localhost:3000)
 
 ## Live Demo
-[🔗 https://metaverse-world-madness.vercel.app/](#)
+🔗 [https://metaverse-world-madness.vercel.app/](https://metaverse-world-madness.vercel.app/)
 
 ---
 
