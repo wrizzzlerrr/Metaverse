@@ -22,7 +22,7 @@ const Navbar = () => (
         METAVERSUS
       </h2>
       <div className="flex gap-2.5 items-center">
-        <Link href="https://github.com/Akshat-Kumar-X" target="_blank">
+        <Link href="https://github.com/wrizzzlerrr" target="_blank">
           <button
             type="button"
             className="rounded-full font-semibold bg-[#323232] py-1.5 px-2 text-sm text-white transition-all shadow-md hover:scale-110"
@@ -30,7 +30,7 @@ const Navbar = () => (
             <img src="/github.svg" alt="github" />
           </button>
         </Link>
-        <Link href="https://www.linkedin.com/in/akshat-kumar-86203224a/" target="_blank">
+        <Link href="https://www.linkedin.com/in/mohd-rizwaan-ansari-99b2ab277/" target="_blank">
           <button
             type="button"
             className="rounded-full font-semibold py-2 px-2.5 bg-[#0A66C2] text-sm text-white transition-all shadow-md hover:scale-110"
