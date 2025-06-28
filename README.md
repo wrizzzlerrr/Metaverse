@@ -18,7 +18,7 @@ npm run dev
 ```
 
 ## Live Demo
-🔗 [https://metaverse-world-madness.vercel.app/](https://metaverse-world-madness.vercel.app/)
+🔗 [https://metaverse-xi-two.vercel.app/](https://metaverse-xi-two.vercel.app/)
 
 ---
 
